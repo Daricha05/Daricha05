@@ -31,7 +31,7 @@
   </a>
   <img width="12" />
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+    <img src="https://w7.pngwing.com/pngs/454/464/png-transparent-css3-cascading-style-sheets-logo-html-markup-language-others-miscellaneous-blue-angle.png" height="40" alt="css3 logo" />
   </a>
 
   <img width="12" />
@@ -48,21 +48,21 @@
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="35"/>
   </a>
    <img width="12" />
   
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="35"/>
   </a>
   <img width="12" />
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.quadrilite.com/wp-content/uploads/2024/04/NodeJS.png" alt="express" height="40" width="40" />
+    <img src="https://www.quadrilite.com/wp-content/uploads/2024/04/NodeJS.png" alt="express" height="35" width="35" />
   </a>
   <img width="12" />
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="40" alt="laravel logo" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="35" alt="laravel logo" width="35" />
   </a>
 </p>
 
@@ -82,21 +82,23 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" width="40"/>
   </a>
-<img width="12" />
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40" width="40"/>
-  </a>
-<img width="12" />
+</p>
+
+<p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
   </a>
   <img width="12" />
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/>
-  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40" width="40"/>
+  </a> 
   <img width="12" />
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" width="40"/>
+  </a>
+  <img width="12" />
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/>
   </a>
 </p>
 
